@@ -29,9 +29,10 @@ int main()
 
 int insertsort(int array[],int n)
 {
-   int i, key, j;
-   for (i = 1; i < n; i++)
-   {
+	printf("\n\t\t________Insertion Sort_______");
+	int i, key, j;
+	for (i = 1; i < n; i++)
+	{
        key = array[i];
        j = i-1;
  
@@ -45,7 +46,7 @@ int insertsort(int array[],int n)
        }
        array[j+1] = key;
        printsort(array,i);
-   }
+	}
 }
 
 void printsort(int array[], int n)
