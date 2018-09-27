@@ -1,22 +1,6 @@
-#include<stdio.h>
-#define max 50
-
 void bubblesort(int array[],int n);
 void printbubble(int array[], int n);
 void swapbubble(int i,int j);
-
-int main()
-{
-	int i,n=5,array[5]={9,8,7,6,5};
-	printf("\nUnsorted Array\t:");
-	for(i=0;i<n;i++)
-	{
-		printf("%d\t ",array[i]);
-	}
-	printf("\n");
-	bubblesort(array,n);
-	return 0;
-}
 
 void bubblesort(int array[],int n)
 {
@@ -70,4 +54,3 @@ void swapbubble(int i,int j)
 {
 	printf("swap(%d,%d):\t",i,j);
 }
-

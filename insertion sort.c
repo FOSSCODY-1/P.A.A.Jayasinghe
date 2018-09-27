@@ -2,7 +2,7 @@
 #define max 50
 
 void insertsort(int array[],int n);
-void printsort(int array[], int n);
+void printinsert(int array,int n);
 
 int main()
 {
@@ -24,7 +24,7 @@ int main()
 	}
 	printf("\n");
 	insertsort(array,n);
-	printsort(array,n);
+
 	
 	return 0;
 }
@@ -47,16 +47,16 @@ void insertsort(int array[],int n)
            j = j-1;
        }
        array[j+1] = key;
-       printsort(array,i);
+       printinsert(array,i);
+       
 	}
 	
 }
-
-void printsort(int array[], int n)
+void printinsert(int array,int n)
 {
-   int i;
-   printf("\nSorted Array\t:");
-   for (i=0; i < n; i++)
-       printf("%d\t ", array[i]);
-   printf("\n");
+	int k;
+        printf("\nSorted Array\t:");
+        for (k=0; k<n; k++)
+    		printf("%d\t ", array[k]);
+		printf("\n");
 }
