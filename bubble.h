@@ -27,16 +27,16 @@ void bubblesort(int array[],int n)
 		}
 		if(flag==0)
 		{
-			printf("\nAfter %d iteration array is sorted.",i+1);
-			printf("\nSorted:\t\t");
+			printf("\n\nAfter %d iteration array is sorted.",i+1);
+			printf("\nSorted array:\t");
 			printbubble(array,n);
 			printf("\n");
 			break;
 		}	
 		else{
-			printf("After %d iteration:",i+1);
+			printf("After %d iteration unsorted array:\n\t\t",i+1);
 			printbubble(array,n-i);
-			printf("\n");
+			printf("\n\n");
 		}
 	
 	}
@@ -46,7 +46,13 @@ void printbubble(int array[], int n)
 {
    int i;
    for (i=0;i<n;i++)
-       printf("%d\t ", array[i]);
+       printf("--------", array[i]);
+   printf("\n\t\t|");
+   for (i=0;i<n;i++)
+       printf("  %d\t|", array[i]);
+   printf("\n\t\t");
+   for (i=0;i<n;i++)
+       printf("--------", array[i]);
    printf("\n");
 }
 
