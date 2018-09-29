@@ -9,7 +9,7 @@
      Above sorting techniques are implimented using c.Comments will be usefull to understand the code.Output is userfriendly and give clear description to how it happens step by step.
       
   
-  ## Prerequisites
+## Prerequisites
   
   ### C compliers-
               
@@ -17,6 +17,9 @@
               ->CodeBlocks-http://www.codeblocks.org/home
               ->Eclipse-https://www.eclipse.org
               ->Dev C++-https://bloodshed-dev-c.en.softonic.com
+http://github.com - automatic!
+[GitHub](http://github.com)
+
               
    
  Contribution
