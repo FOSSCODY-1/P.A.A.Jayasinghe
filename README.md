@@ -8,8 +8,7 @@
 * **Bubble Sort**
 
 Above sorting techniques are implimented using c. Comments will be usefull to understand the code for the beginners. Output is userfriendly and give clear description to how it happens step by step.
-     
-![sorting](https://www.google.lk/search?q=sorting+images&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjfhbDsu9_dAhUET48KHRvyDwMQ_AUIDigB&biw=1366&bih=626#imgrc=8HeSCB_p8eqNfM:)
+    
   
 ## Prerequisites
   
