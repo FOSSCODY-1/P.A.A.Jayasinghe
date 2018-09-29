@@ -1,5 +1,6 @@
-# Sorting Algorithms 
+# Sorting Algorithms
 
+jayasinghepumudi08@gmail.com
 
 ## Description
 
@@ -24,11 +25,12 @@ Above sorting techniques are implimented using c. Comments will be usefull to un
  
  
  ## Contribution
-   This will be useful to the beginning coders.
+  When contributing to this repository, please first discuss the change you wish to make via issue or email with the owners of this repository before making a change.
            
  ## Acknowledgments
  
  * https://brilliant.org/courses/computer-science-algorithms/sorting/
  * https://www.geeksforgeeks.org/sorting-algorithms/
  * https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
+ * FOSS team members
  
