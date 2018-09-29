@@ -12,13 +12,14 @@
 ## Prerequisites
   
   ### C compliers-
-  [NetBean] (https://netbeans.org/index.html) 
-  http://www.codeblocks.org/home
-  https://www.eclipse.org
-  https://bloodshed-dev-c.en.softonic
- Contribution
-           
-           This will be useful to the beginning coders.
+ * https://netbeans.org/index.html
+ * http://www.codeblocks.org/home
+ * https://www.eclipse.org
+ * https://bloodshed-dev-c.en.softonic
+ 
+ 
+ ## Contribution
+   This will be useful to the beginning coders.
            
  Acknowledgments
  
