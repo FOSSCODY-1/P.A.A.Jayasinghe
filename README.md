@@ -21,9 +21,9 @@
  ## Contribution
    This will be useful to the beginning coders.
            
- Acknowledgments
+ ## Acknowledgments
  
-            *https://brilliant.org/courses/computer-science-algorithms/sorting/
-            *https://www.geeksforgeeks.org/sorting-algorithms/
-            *https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
+ * https://brilliant.org/courses/computer-science-algorithms/sorting/
+ * https://www.geeksforgeeks.org/sorting-algorithms/
+ * https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
  
