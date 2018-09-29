@@ -9,7 +9,8 @@ jayasinghepumudi08@gmail.com
 * **Bubble Sort**
 
 Above sorting techniques are implimented using c. Comments will be usefull to understand the code for the beginners. Output is userfriendly and give clear description to how it happens step by step.
-    
+   
+!(https://github.com/FOSSCODY-1/P.A.A.Jayasinghe/blob/master/images/sorting.png)
   
 ## Prerequisites
   
