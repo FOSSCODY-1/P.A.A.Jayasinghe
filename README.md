@@ -1,4 +1,4 @@
-A visualization system for 3 sorting algorithms 
+Sorting algorithms 
 
 Description
 
