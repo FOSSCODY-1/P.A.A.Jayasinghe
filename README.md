@@ -20,6 +20,9 @@ Above sorting techniques are implimented using c. Comments will be usefull to un
  * https://www.eclipse.org
  * https://bloodshed-dev-c.en.softonic
  
+ ## Installing
+ Download man file and run it on Dev C++ or any other c compiler.
+ 
  
  ## License
  This is licensed under the MIT License - see the [License.md](https://github.com/FOSSCODY-1/P.A.A.Jayasinghe/blob/master/license.txt) file for details
