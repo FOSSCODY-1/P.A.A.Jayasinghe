@@ -16,8 +16,10 @@ int main()
 	for(i=0;i<n;i++)
 	{
 		printf("\t");
-		scanf("\t%d",&array[i]);
+		scanf("\t%d",&array[i]);	//acessing elements to array
 	}
+	
+	//printing unsoring array
 	printf("\nUnsorted Array\t:");
 	for(i=0;i<n;i++)
 	{
