@@ -20,7 +20,7 @@ Above sorting techniques are implimented using c. Comments will be usefull to un
  
  
  ## License
- This is licensed under the MIT License - see the [LICENSE.md] (https://github.com/FOSSCODY-1/P.A.A.Jayasinghe/blob/master/license.txt) file for details
+ This is licensed under the MIT License - see the [GitHub](http://github.com)file for details
  
  
  ## Contribution
