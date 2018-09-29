@@ -1,12 +1,13 @@
 # Sorting Algorithms 
 
+
 ## Description
 
 * **Insertion Sort**
 * **Selection Sort**
 * **Bubble Sort**
-      
-     Above sorting techniques are implimented using c.Comments will be usefull to understand the code.Output is userfriendly and give clear description to how it happens step by step.
+
+Above sorting techniques are implimented using c. Comments will be usefull to understand the code for the beginners. Output is userfriendly and give clear description to how it happens step by step.
       
   
 ## Prerequisites
@@ -16,6 +17,10 @@
  * http://www.codeblocks.org/home
  * https://www.eclipse.org
  * https://bloodshed-dev-c.en.softonic
+ 
+ 
+ ## License
+ This is licensed under the MIT License - see the [LICENSE.md] file for details
  
  
  ## Contribution
