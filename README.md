@@ -2,18 +2,18 @@
 
 ## Description
 
-       **<Insertion Sort>**
-       **Selection Sort**
-       **Bubble Sort**
+**1-Insertion Sort
+2-Selection Sort
+3-Bubble Sort**
       
      Above sorting techniques are implimented using c.Comments will be usefull to understand the code.Output is userfriendly and give clear description to how it happens step by step.
       
   
-  Prerequisites
+  ## Prerequisites
   
-        C compliers-
+  ### C compliers-
               
-              ->NetBeans-https://netbeans.org/index.html
+              ->NetBeans- https://netbeans.org/index.html -automatic!
               ->CodeBlocks-http://www.codeblocks.org/home
               ->Eclipse-https://www.eclipse.org
               ->Dev C++-https://bloodshed-dev-c.en.softonic.com
