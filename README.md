@@ -2,7 +2,7 @@
 
 ## Description
 
-       **Insertion Sort**
+       **<Insertion Sort>**
        **Selection Sort**
        **Bubble Sort**
       
